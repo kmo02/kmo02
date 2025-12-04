@@ -1,5 +1,26 @@
 # 💫 About Me:
-Hi, I’m Kefah Othman — a Computer Science graduate with a strong passion for Cybersecurity, Secure System Design, and Problem-Solving.<br>I enjoy exploring both the defensive (Blue Team) and offensive (Red Team) sides of security, working with tools like Wireshark, ELK/Sysmon, Metasploit, Nmap, and conducting hands-on labs in SOC monitoring, incident analysis, vulnerability assessment, and ethical hacking.<br><br>I’m currently sharpening my skills through national-level cybersecurity programs such as Nashama 9, Green Circle CCT, and the USAID Pentesting Program, gaining real-world experience in threat analysis, secure configurations, and modern security techniques.<br><br>Alongside security, I develop in Python, C++, Java, and Flutter, and I enjoy building applications that blend machine learning with secure software practices — including research and projects in intelligent traffic optimization and logical game design.<br><br>I’m driven by curiosity, continuous learning, and writing secure, efficient, and meaningful code.<br>Always working to grow… and always excited to build something new.
+Hi, I’m Kefah Othman — a Computer Science graduate and aspiring Cybersecurity Engineer with a passion for building secure, intelligent systems.
+
+I work at the intersection of Cybersecurity, Networking, and Machine Learning:
+
+Built a complete traffic optimization app using Flutter and ML, merging classical algorithms with data-driven models to help users plan smarter routes.
+
+Developed “Who Is the Killer?”, an interactive Python game that turns automata theory (DFA), grammars, and BNF into a logic puzzle with custom UI, sound, and input validation.
+
+Explored “Revolutionizing Traffic Planning”, using Machine Learning + Dijkstra’s Algorithm for path optimization and smarter routing decisions.
+
+On the security side, I’m constantly levelling up through:
+
+CCT Fast Track (Green Circle) – covering Information Security, Network Security, Application Security, SOC Operations, Incident Response, Digital Forensics, BC/DR, and Risk Management.
+
+Security+ training (Netriders) and Hacking using AI (Musing Technology) – focusing on cyber threats, AI-driven attacks, and mitigation strategies.
+
+CCNA (Foundations & Intermediate) and NVIDIA’s Introduction to Networking – strengthening my networking fundamentals and configuration skills.
+
+I enjoy solving problems, designing systems with security in mind, and turning theory (algorithms, automata, ML) into real, working projects.
+
+🔐 Interests: Cybersecurity, Blue/Red Teaming, SOC, Secure Software Design
+🧠 Tech stack: Python, Flutter, C++, ML, Networking, Git/GitHub
 
 
 ## 🌐 Socials:
